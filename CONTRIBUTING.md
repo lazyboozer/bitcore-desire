@@ -1,6 +1,6 @@
-# Contributing to Bitcore-Dash
+# Contributing to Bitcore-Desire
 
-We're working hard to make *bitcore-desire* the most powerful JavaScript library for working with Dash. Our goal is to have *bitcore-desire* be a library that can be used by anyone interested in Dash, and to level expertise differences with great design and documentation.
+We're working hard to make *bitcore-desire* the most powerful JavaScript library for working with Desire. Our goal is to have *bitcore-desire* be a library that can be used by anyone interested in Desire, and to level expertise differences with great design and documentation.
 
 ## Quick Checklist
 

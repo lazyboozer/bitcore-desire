@@ -1,8 +1,8 @@
 {
   "name": "bitcore-desire",
   "version": "4.1.3",
-  "description": "A platform to build Dash and blockchain-based applications.",
-  "author": "Dash Core Group <dev@desire.org>",
+  "description": "A platform to build Desire and blockchain-based applications.",
+  "author": "Desire Core Group <dev@desire.org>",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test/** --recursive",
