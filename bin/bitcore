@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+var bitcore = require('bitcore-node-desire/lib/cli/bitcore');
+var path = require('path');
+var servicesPath = path.resolve(__dirname, '../');
+var additionalServices = ['insight-api-desire', 'insight-ui-desire'];
+bitcore(servicesPath, additionalServices);
